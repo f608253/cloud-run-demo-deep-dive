@@ -27,3 +27,5 @@ git push -u origin master
 8) Go to Cloud Run and click on Setup Continuous Deployment
 
 9) Change source file. commit and wait for the build to happen
+
+Thats all
