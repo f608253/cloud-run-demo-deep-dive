@@ -26,6 +26,6 @@ steps:
     - '1'
     - '--allow-unauthenticated'
     - '--service-account'
-    - 'sa-svc-cloudstorage@$PROJECT_ID.iam.gserviceaccount.com'
+    - 'sa-svc-cloudstorage-758@$PROJECT_ID.iam.gserviceaccount.com'
 images:
 - 'us-east1-docker.pkg.dev/$PROJECT_ID/my-docker-images-repo/svccloudstorage'
